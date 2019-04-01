@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="textView">Name contact</string>
+    <string name="imageView">Image contact</string>
+    <string name="button1">Change contact</string>
+    <string name="button2">Change sound</string>
+    <string name="OK">OK</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="contacts">
+        <item>Jan Niezbedny</item>
+        <item>Kuba Rozpruwacz</item>
+        <item>Jola Lojalna</item>
+        <item>Robert Maklowicz</item>
+        <item>Adam Malysz</item>
+    </string-array>
+
+    <string-array name="sounds">
+        <item>Audio 1</item>
+        <item>Audio 2</item>
+        <item>Audio 3</item>
+        <item>Audio 4</item>
+        <item>Audio 5</item>
+        <item>Audio 6</item>
+    </string-array>
+
+</resources>
