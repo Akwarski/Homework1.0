@@ -20,35 +20,35 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-             />
+            android:onClick="chooseName" />
 
         <RadioButton
             android:id="@+id/RadioButton2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-             />
+            android:onClick="chooseName" />
 
         <RadioButton
             android:id="@+id/RadioButton3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-             />
+            android:onClick="chooseName" />
 
         <RadioButton
             android:id="@+id/RadioButton4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-             />
+            android:onClick="chooseName" />
 
         <RadioButton
             android:id="@+id/RadioButton5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            />
+            android:onClick="chooseName" />
 
     </RadioGroup>
 
@@ -78,7 +78,8 @@
             app:layout_constraintHorizontal_weight="2"
             app:layout_constraintLeft_toRightOf="@+id/CANCEL"
             app:layout_constraintRight_toRightOf="parent"
-            tools:layout_editor_absoluteY="8dp" />
+            tools:layout_editor_absoluteY="8dp"
+            android:onClick="confirm"/>
 
     </android.support.constraint.ConstraintLayout>
 

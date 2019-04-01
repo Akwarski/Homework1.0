@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Homework</string>
     <string name="textView">Name contact</string>
     <string name="imageView">Image contact</string>
